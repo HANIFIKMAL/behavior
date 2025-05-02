@@ -134,3 +134,390 @@ text,label
 "I'm feeling neutral, just another day.",neutral
 "Everything is frustrating me so much!",angry
 "I know things will improve, staying optimistic.",optimistic
+"I'm so happy today, I can't believe it!",happy
+"Today feels perfect, everything is aligned!",joy
+"I just want to scream, nothing is working!",angry
+"Everything will be okay eventually, I'm staying hopeful.",optimistic
+"Feeling so joyful, today is my day!",joy
+"Everything seems to be falling into place!",happy
+"I'm just chilling today, no excitement.",neutral
+"Everything is getting on my nerves!",angry
+"Hopeful that tomorrow will bring new opportunities.",optimistic
+"Life feels so good right now!",joy
+"I'm on cloud nine today!",joy
+"Such a peaceful morning!",joy
+"Everything seems perfect at this moment!",joy
+"Feeling like I could conquer anything!",joy
+"I’m bursting with happiness today!",joy
+"Can't stop smiling, everything is great!",joy
+"My heart is full of joy right now!",joy
+"Today is one of those magical days.",joy
+"Everything is just falling into place!",joy
+"I'm incredibly grateful today.",joy
+"Couldn’t be more excited about life!",joy
+"I'm feeling so positive today!",joy
+"I am absolutely thrilled right now!",joy
+"My spirit is soaring today!",joy
+"I'm in the best mood ever!",joy
+"Everything just feels right!",joy
+"I'm full of energy today!",joy
+"Everything around me is shining!",joy
+"I'm ready to take on the world!",joy
+"I'm in a happy place right now!",joy
+"Today is going to be amazing!",joy
+"I feel so blessed and happy.",happy
+"Everything is going well today!",happy
+"Today is a beautiful day!",happy
+"I'm grateful for everything today.",happy
+"Feeling so thankful for all that I have.",happy
+"Such a pleasant and wonderful day!",happy
+"I'm in such a great mood today.",happy
+"Feeling so light and joyful.",happy
+"I'm surrounded by love today!",happy
+"I couldn't ask for a better day.",happy
+"Everything is just falling into place today.",happy
+"I'm on top of the world today!",happy
+"Nothing can bring me down today.",happy
+"Every moment feels like a blessing.",happy
+"Feeling happy and content with life.",happy
+"Today is full of blessings!",happy
+"I'm so grateful for today.",happy
+"Everything is just perfect right now.",happy
+"Today is just the best day ever.",happy
+"I'm feeling so much happiness today!",happy
+"Life is just so good right now.",happy
+"Feeling good, everything is going my way.",happy
+"I just feel so content today.",neutral
+"Another regular day.",neutral
+"Nothing special, just going through the motions.",neutral
+"I'm indifferent to everything today.",neutral
+"Just another day, nothing remarkable.",neutral
+"Not much to say today.",neutral
+"Today feels like any other day.",neutral
+"Everything seems normal today.",neutral
+"Not feeling much today, just neutral.",neutral
+"I'm just here today.",neutral
+"I'm feeling very neutral about everything.",neutral
+"Nothing stands out today.",neutral
+"I'm just taking things one step at a time.",neutral
+"Today is just an average day.",neutral
+"Nothing is exciting, just another day.",neutral
+"Feeling a bit distant today.",neutral
+"Life is just moving along.",neutral
+"Feeling fine, just neutral.",neutral
+"I'm in a state of indifference today.",neutral
+"Nothing seems to bother me today.",neutral
+"I'm just getting through the day.",neutral
+"Everything seems average today.",neutral
+"I'm indifferent to how things are going.",neutral
+"I'm stuck in the middle today.",neutral
+"Everything is frustrating me today.",angry
+"I'm feeling so angry about this situation.",angry
+"This is absolutely infuriating!",angry
+"I'm so upset right now.",angry
+"Everything just makes me mad today.",angry
+"Why does everything go wrong?",angry
+"I can't stand this anymore!",angry
+"I'm so irritated right now!",angry
+"Everything is frustrating me so much.",angry
+"I'm so done with everything!",angry
+"Nothing is going right, and it makes me angry.",angry
+"I feel so overwhelmed with anger.",angry
+"I'm at my breaking point.",angry
+"Everything is going wrong, and it's exhausting.",angry
+"I'm so angry I can barely think.",angry
+"This is so unfair, I can't deal with it!",angry
+"Everything irritates me today.",angry
+"I'm just so mad right now!",angry
+"I can't handle this frustration any longer.",angry
+"I’m fuming with anger today.",angry
+"I just want to scream.",angry
+"I'm furious about everything right now.",angry
+"I'm so frustrated, nothing is going my way.",angry
+"I feel so hopeless, nothing is working.",angry
+"I'm not sure how much more of this I can take.",angry
+"I’m filled with rage today!",angry
+"I just can’t deal with this anymore.",angry
+"Staying hopeful, things will get better.",optimistic
+"I believe tomorrow will be brighter.",optimistic
+"Optimism is key, even when things are tough.",optimistic
+"I know things will improve eventually.",optimistic
+"Better days are ahead, I just know it.",optimistic
+"I trust that things will work out.",optimistic
+"I’m staying positive no matter what.",optimistic
+"I believe in the power of hope.",optimistic
+"Good things are coming my way.",optimistic
+"Everything will work out in the end.",optimistic
+"Optimism is my strength.",optimistic
+"There's always light at the end of the tunnel.",optimistic
+"I’m staying hopeful for the future.",optimistic
+"I know things will get better soon.",optimistic
+"Believe in yourself, things will improve.",optimistic
+"Everything is going to be okay.",optimistic
+"I'm confident that things will change for the better.",optimistic
+"With patience, everything will be okay.",optimistic
+"Good things are just around the corner.",optimistic
+"Every challenge is an opportunity to grow.",optimistic
+"I'm staying optimistic through it all.",optimistic
+"I know the best is yet to come.",optimistic
+"I have faith that the future will be bright.",optimistic
+"Even on tough days, I stay hopeful.",optimistic
+"Tomorrow is a new day with new possibilities.",optimistic
+"Success is just waiting for me!",optimistic
+"Everything happens for a reason, and I trust that.",optimistic
+"I know that things will improve soon.",optimistic
+"Good things take time, but they're coming.",optimistic
+"I'm choosing hope over fear.",optimistic
+"Optimism is my superpower.",optimistic
+"The future is looking bright!",optimistic
+"Things will get better, I just know it.",optimistic
+"I'm determined to stay positive.",optimistic
+"I believe in second chances.",optimistic
+"Better days are ahead for me.",optimistic
+"Nothing can stop me, I will stay hopeful.",optimistic
+"I'm optimistic about the future.",optimistic
+"I can feel the good things coming!",optimistic
+"With hope, anything is possible.",optimistic
+"Every day brings new opportunities.",optimistic
+"I trust that everything will work out.",optimistic
+"I'm staying hopeful, no matter what.",optimistic
+"Things are going to turn around soon.",optimistic
+"I'm full of hope for what's to come.",optimistic
+"I'm staying positive through the hard times.",optimistic
+"Optimism is the key to overcoming challenges.",optimistic
+"Today is just a step towards something better.",optimistic
+"Hope is my guiding force.",optimistic
+"Everything will improve, I believe in that.",optimistic
+"Great things are waiting for me.",optimistic
+"Good things are on the horizon.",optimistic
+"Everything is just perfect today!",joy
+"I'm feeling like I could float on air!",joy
+"Such a wonderful day, I’m so grateful!",joy
+"Today’s a day filled with endless joy!",joy
+"I'm in such a good mood today, everything’s great!",joy
+"Feeling like I’ve got all the energy in the world!",joy
+"Today is going to be an amazing day!",joy
+"My heart is full of joy right now!",joy
+"I feel so alive today, what a beautiful day!",joy
+"Today, everything feels right!",joy
+"I’m so happy, everything is just fantastic!",happy
+"Couldn’t be more thrilled with life today!",happy
+"I am so content with everything right now.",happy
+"Life feels like it’s going perfectly today.",happy
+"I'm on top of the world right now, feeling great!",happy
+"I'm so happy with everything that’s going on today.",happy
+"Today has been nothing but joy and happiness!",happy
+"I can’t stop smiling today, life is amazing!",happy
+"I’m in the best mood ever, everything feels perfect!",happy
+"Everything is aligned and I feel so happy!",happy
+"I'm feeling very neutral, nothing major going on.",neutral
+"Just another average day, nothing to report.",neutral
+"I’m indifferent about today, it’s just another day.",neutral
+"Everything is just fine today, nothing exciting.",neutral
+"I'm not really feeling much today, just here.",neutral
+"Not much is happening today, it feels like an ordinary day.",neutral
+"I'm feeling okay, nothing to complain about.",neutral
+"Today is neither good nor bad, just neutral.",neutral
+"Life is going on as usual, no special feelings today.",neutral
+"Today feels like a regular day, nothing stands out.",neutral
+"Everything just seems off today, feeling angry.",angry
+"I'm so frustrated with everything right now.",angry
+"I can't stand how nothing is working right now.",angry
+"Everything is just wrong today, I can't take it.",angry
+"I'm beyond mad right now, everything is falling apart.",angry
+"I’m so angry, everything is driving me crazy.",angry
+"This situation is so infuriating, I can’t deal with it!",angry
+"Everything is irritating me today, I’m fed up.",angry
+"I'm losing my patience, nothing seems right today.",angry
+"Why does everything have to go wrong today?",angry
+"I know things will get better, I have faith.",optimistic
+"I'm sure things will improve soon, staying hopeful.",optimistic
+"Good things are coming my way, I just know it.",optimistic
+"I'm trusting that everything will work out in the end.",optimistic
+"I believe in the power of positivity, things will get better.",optimistic
+"The future is bright, and I'm hopeful.",optimistic
+"Every challenge is an opportunity to grow, I’ll stay hopeful.",optimistic
+"I believe that good things are on the horizon.",optimistic
+"I'm confident that everything will improve, staying positive.",optimistic
+"Optimism is my strength, and I’m holding on to it.",optimistic
+"I'm staying positive, I know things will turn around.",optimistic
+"Today feels like a great opportunity to grow.",optimistic
+"Good things are ahead, I just have to keep moving forward.",optimistic
+"I'm sure things will improve with time.",optimistic
+"Even the tough days have their lessons, staying optimistic.",optimistic
+"I’m determined to find the silver lining in everything.",optimistic
+"I'm staying hopeful, things will get better soon.",optimistic
+"Everything happens for a reason, and I trust that.",optimistic
+"Every day brings me closer to better things.",optimistic
+"I believe that tomorrow will bring new possibilities.",optimistic
+"Even in the darkest times, I remain hopeful.",optimistic
+"The best is yet to come, I just know it.",optimistic
+"I’m confident the future is full of possibilities.",optimistic
+"Optimism will guide me through any challenge.",optimistic
+"Everything will get better, I trust in that.",optimistic
+"I'm ready to face anything with a positive attitude.",optimistic
+"Nothing is impossible if I stay hopeful and determined.",optimistic
+"I’m ready for the future, and I believe it’s going to be great.",optimistic
+"With patience and hope, everything will turn out okay.",optimistic
+"Each new day brings more hope and opportunities.",optimistic
+"I'm filled with hope for what lies ahead.",optimistic
+"Good things are just around the corner, I can feel it.",optimistic
+"I know I can handle whatever comes my way.",optimistic
+"Things will get better, I just need to believe.",optimistic
+"I'm staying optimistic about the future, I trust it will be bright.",optimistic
+"Every setback is just a setup for a greater comeback.",optimistic
+"I’m looking forward to the opportunities tomorrow brings.",optimistic
+"Today is a step towards a better future, staying hopeful.",optimistic
+"Everything will align when the time is right, I’m optimistic.",optimistic
+"I believe in the power of hope to make things better.",optimistic
+"Even on tough days, I choose optimism.",optimistic
+"Good things take time, but they are worth waiting for.",optimistic
+"I'm feeling confident that things will improve soon.",optimistic
+"I trust that tomorrow will be a better day.",optimistic
+"Success is waiting for me, I just need to keep going.",optimistic
+"I’m going to make the most of today, staying hopeful.",optimistic
+"I believe the best is yet to come, and I’m ready for it.",optimistic
+"Everything is going to work out in the end, I believe that.",optimistic
+"Better days are on their way, I just know it.",optimistic
+"Every challenge is just another step forward.",optimistic
+"Nothing is impossible when you keep believing.",optimistic
+"Today is a fresh start, full of possibilities.",optimistic
+"I'm sure things will improve with time.",optimistic
+"I know that brighter days are ahead.",optimistic
+"I'm staying hopeful, no matter what.",optimistic
+"Everything is falling into place, and I'm so grateful.",optimistic
+"I’m feeling amazing, today is my day!",joy
+"Everything just feels perfect, I can’t stop smiling.",joy
+"This day is filled with so much positivity!",joy
+"Today feels like a celebration, I’m so happy!",joy
+"I’m filled with happiness, it’s a wonderful day!",joy
+"I can’t wait for what’s next, life feels so exciting!",joy
+"Today is one of those days where everything feels right.",joy
+"My heart is soaring with joy, what a beautiful day!",joy
+"I'm so happy I could burst, everything is going great!",joy
+"Feeling on top of the world today, everything is awesome!",joy
+"I’m just so content today, everything is perfect.",happy
+"I feel so at peace with everything right now.",happy
+"Everything is so wonderful right now, I’m really happy.",happy
+"I couldn’t be happier today, everything’s falling into place.",happy
+"I'm feeling so good today, life is great!",happy
+"I’m in the best mood ever, everything seems perfect!",happy
+"Feeling so blessed and happy with everything today.",happy
+"I’m so proud of how everything is going right now.",happy
+"Today is full of joy, I’m really content.",happy
+"I’m feeling great, everything is going my way!",happy
+"Just another ordinary day, nothing special.",neutral
+"Nothing too exciting happening today, just the usual.",neutral
+"I feel like today is just another regular day.",neutral
+"It’s a pretty average day, not much to talk about.",neutral
+"Just going through the motions today, nothing stands out.",neutral
+"I'm in a neutral mood today, neither up nor down.",neutral
+"Feeling kind of indifferent today, not much on my mind.",neutral
+"It’s just one of those days that feels ordinary.",neutral
+"Today is calm, nothing really exciting happening.",neutral
+"I’m just coasting through today, no major highs or lows.",neutral
+"I'm really frustrated with how things are going.",angry
+"Why does everything feel so wrong today?",angry
+"Everything’s making me mad, I can’t handle this!",angry
+"I'm so upset right now, nothing is working!",angry
+"I’m feeling so angry, this situation is unbearable!",angry
+"Nothing is going the way I want, I’m beyond irritated.",angry
+"I can't believe this, I'm so mad right now!",angry
+"This is so unfair, I’m furious!",angry
+"I’m so irritated, everything seems to be going wrong.",angry
+"Everything today is just driving me crazy, I can’t stand it.",angry
+"I'm hopeful that things will turn around soon.",optimistic
+"Every challenge is a chance to learn, I’m staying hopeful.",optimistic
+"I know that good things are on the horizon.",optimistic
+"I’m optimistic that things will get better with time.",optimistic
+"I believe in the power of hope, things will get better.",optimistic
+"Optimism is key, and I’m holding onto that.",optimistic
+"I'm staying positive, better days are coming.",optimistic
+"I trust that everything will work out in the end.",optimistic
+"I’m hopeful that things will change for the better.",optimistic
+"The future is bright, I’m excited for what’s next.",optimistic
+"Even though it’s tough now, I believe things will improve.",optimistic
+"Great things are coming, I just have to stay positive.",optimistic
+"I’m keeping my head up, I know things will get better.",optimistic
+"Today may be tough, but tomorrow holds better things.",optimistic
+"I’m looking forward to what the future holds, staying optimistic.",optimistic
+"I know good things are just around the corner.",optimistic
+"I'm trusting the process, good things are ahead.",optimistic
+"I believe every day brings a new opportunity for growth.",optimistic
+"I know things will work out, I just need to keep going.",optimistic
+"Even when things are tough, I’m staying hopeful.",optimistic
+"I feel hopeful for the future, I trust things will improve.",optimistic
+"I'm staying optimistic that my hard work will pay off.",optimistic
+"I’m determined to make things work, no matter what.",optimistic
+"I have faith that things will turn around soon.",optimistic
+"I'm excited for what’s ahead, the future is looking bright!",optimistic
+"Things are tough now, but I know better days are coming.",optimistic
+"I believe that every setback is just a setup for success.",optimistic
+"I know that good things take time, and I’m ready for them.",optimistic
+"I'm feeling positive that everything will align soon.",optimistic
+"I trust the universe has a plan for me, and I’m ready for it.",optimistic
+"I'm staying strong and hopeful, better days are coming.",optimistic
+"The future looks bright, I’m staying optimistic about it.",optimistic
+"I’m excited to see what tomorrow brings, I feel hopeful.",optimistic
+"Every challenge is a stepping stone towards something great.",optimistic
+"I'm optimistic that things will improve with time.",optimistic
+"With patience and hard work, I know things will get better.",optimistic
+"I'm confident the future will be full of opportunities.",optimistic
+"I feel hopeful for the future, there’s so much potential.",optimistic
+"I'm choosing to stay hopeful, even when things are difficult.",optimistic
+"I’m confident that everything will fall into place soon.",optimistic
+"I'm excited for the journey ahead, no matter how tough it gets.",optimistic
+"Today might be challenging, but I know better days are ahead.",optimistic
+"I know that the best is yet to come, and I can’t wait.",optimistic
+"I'm filled with hope that tomorrow will be better.",optimistic
+"I believe in the good that’s coming my way.",optimistic
+"Every obstacle is just an opportunity for growth.",optimistic
+"I'm staying hopeful and focusing on the positives.",optimistic
+"Today’s a good day to start fresh and stay positive.",optimistic
+"I’m confident that everything will work out in the end.",optimistic
+"I know that I’m on the right path, things will get better.",optimistic
+"I'm feeling optimistic, the best is yet to come.",optimistic
+"Even though things are tough, I’m sure they’ll improve.",optimistic
+"I'm feeling calm and collected today, everything is in balance.",neutral
+"Today’s just another typical day, nothing special.",neutral
+"Not much is going on today, just another normal day.",neutral
+"Everything feels neutral, nothing exciting or bad.",neutral
+"I’m not feeling much today, it’s just one of those days.",neutral
+"Today’s been pretty average, nothing too thrilling.",neutral
+"I’m feeling neutral today, no highs or lows.",neutral
+"Everything seems fine, nothing stands out today.",neutral
+"It’s a pretty unremarkable day today.",neutral
+"Nothing out of the ordinary today, just a regular day.",neutral
+"I'm really frustrated, everything is going wrong.",angry
+"Everything is so annoying, I’m ready to explode.",angry
+"I’m feeling so mad, nothing is working the way I want.",angry
+"This is so frustrating, I can’t handle it anymore!",angry
+"I'm angry about how things are going right now.",angry
+"I'm furious, everything is falling apart.",angry
+"I can’t stand this anymore, I’m so upset!",angry
+"I'm so irritated by everything, nothing is right today.",angry
+"I just want to scream, nothing is going my way.",angry
+"Everything is annoying me today, I’m at my limit.",angry
+"Why is everything so hard today?",sad
+"I'm feeling really down today, nothing feels right.",sad
+"I just can't seem to shake this sadness today.",sad
+"Everything feels overwhelming, I just want to cry.",sad
+"I can’t stop feeling sad today, it’s hard to shake off.",sad
+"Everything feels so heavy today, I can’t stop feeling blue.",sad
+"I'm feeling really down, everything just seems wrong.",sad
+"I'm so sad, nothing is going the way I want.",sad
+"I feel like I’m stuck in a rut, nothing’s improving.",sad
+"Everything feels empty today, like I can’t find any joy.",sad
+"Today’s one of those days where nothing feels right.",sad
+"I'm feeling lonely, everything feels distant today.",sad
+"I'm just feeling lost, nothing seems to make sense.",sad
+"Everything seems so hard today, it’s hard to keep going.",sad
+"I'm struggling to find happiness today, nothing feels good.",sad
+"Feeling really low, I just want this day to end.",sad
+"Nothing seems to cheer me up today, I’m feeling really sad.",sad
+"Feeling so lost, everything feels hopeless.",sad
+"I don’t feel like doing anything, I’m just so sad.",sad
+"I can’t shake this sadness, everything feels so heavy.",sad
+"I'm feeling hopeless, nothing seems worth it today.",sad
+"I'm just so tired of everything, I don’t know how to keep going.",sad
+"I'm really overwhelmed, I can’t handle this right now.",sad

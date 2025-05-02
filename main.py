@@ -95,3 +95,11 @@ async def upload_model(
 @app.get("/")
 async def root():
     return {"message": "FastAPI Text Classifier is running!"}
+
+@app.get("/download_model/")
+async def download_model():
+    tflite_path = "model/behavior_classifier.tflite"
+    if os.path.exists(tflite_path):
+        return FileResponse(path=tflite_path, filename="behavior_classifier.tflite", media_type='application/octet-stream')
+    else:
+        return {"error": "TFLite model not found"}

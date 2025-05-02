@@ -51,6 +51,7 @@ def decode_prediction(output):
     predicted_class = np.argmax(output)
     return label_encoder.inverse_transform([predicted_class])[0]
 
+# Route to classify text
 @app.post("/classify/")
 async def classify_text(data: TextInput):
     try:
@@ -63,7 +64,7 @@ async def classify_text(data: TextInput):
     except Exception as e:
         return {"error": str(e)}
 
-# Add new API to upload new model files
+# Route to upload a new model
 @app.post("/upload_model/")
 async def upload_model(
     tflite_file: UploadFile = File(...),
@@ -89,3 +90,8 @@ async def upload_model(
         return {"message": "Model, tokenizer, and label encoder uploaded and loaded successfully"}
     except Exception as e:
         return {"error": str(e)}
+
+# ✅ NEW: Simple homepage so Render doesn’t show 404
+@app.get("/")
+async def root():
+    return {"message": "FastAPI Text Classifier is running!"}

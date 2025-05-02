@@ -1,4 +1,5 @@
-from fastapi import FastAPI, UploadFile, File
+from fastapi import FastAPI, UploadFile, File, HTTPException
+from fastapi.responses import FileResponse
 from pydantic import BaseModel
 import numpy as np
 import pickle
@@ -33,8 +34,11 @@ def load_model():
     input_details = interpreter.get_input_details()
     output_details = interpreter.get_output_details()
 
-# Call once on startup
-load_model()
+# Try to load the model at startup (optional: protect if missing)
+try:
+    load_model()
+except Exception as e:
+    print(f"Model not loaded at startup: {e}")
 
 # Define FastAPI input model
 class TextInput(BaseModel):
@@ -43,7 +47,7 @@ class TextInput(BaseModel):
 # Preprocess input
 def preprocess(text):
     seq = tokenizer.texts_to_sequences([text])
-    padded = pad_sequences(seq, maxlen=50)  # Make sure 50 matches your training
+    padded = pad_sequences(seq, maxlen=50)  # Adjust maxlen to match your model
     return np.array(padded, dtype=np.float32)
 
 # Decode output
@@ -91,15 +95,16 @@ async def upload_model(
     except Exception as e:
         return {"error": str(e)}
 
-# ✅ NEW: Simple homepage so Render doesn’t show 404
+# ✅ Simple homepage so Render doesn’t show 404
 @app.get("/")
 async def root():
     return {"message": "FastAPI Text Classifier is running!"}
 
+# ✅ Download the TFLite model file
 @app.get("/download_model/")
 async def download_model():
     tflite_path = "model/behavior_classifier.tflite"
     if os.path.exists(tflite_path):
         return FileResponse(path=tflite_path, filename="behavior_classifier.tflite", media_type='application/octet-stream')
     else:
-        return {"error": "TFLite model not found"}
+        raise HTTPException(status_code=404, detail="TFLite model not found")
